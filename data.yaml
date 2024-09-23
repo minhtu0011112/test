@@ -1,0 +1,5 @@
+train: C:/Users/Tu/Desktop/KLTN/dataset/images/train
+val: C:/Users/Tu/Desktop/KLTN/dataset/images/val
+test: C:/Users/Tu/Desktop/KLTN/dataset/images/test
+nc: 5  # sl class
+names: ['name','companyName','phone','email','address']  # ten class
